@@ -782,7 +782,10 @@ a:hover {
     justify-content: center;
     align-items: center;
 }
+.contact_part-1{
+    padding-right: 20px;
 
+}
 .contact_part-2 {
     height: 340px;
     width: fit-content;
