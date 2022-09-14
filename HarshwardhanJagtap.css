@@ -782,10 +782,7 @@ a:hover {
     justify-content: center;
     align-items: center;
 }
-.contact_part-1{
-    padding-right: 20px;
 
-}
 .contact_part-2 {
     height: 340px;
     width: fit-content;
@@ -2019,11 +2016,13 @@ footer .fa-linkedin-in {
         margin-top: 0;
     }
 
+    
     .address_value,
     .phone_no_value,
     .e_mail_value {
         font-size: 17px;
         margin-bottom: 20px;
+        padding-right:20px;
 
     }
 
