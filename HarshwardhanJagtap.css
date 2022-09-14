@@ -949,6 +949,10 @@ footer .fa-linkedin-in {
     color: white;
 }
 
+.address_value{
+    padding-right: 20px;
+}
+
 
 /* =------------------------------= */
 @keyframes typing {
