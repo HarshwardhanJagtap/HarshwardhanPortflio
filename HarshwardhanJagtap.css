@@ -1368,6 +1368,10 @@ footer .fa-linkedin-in {
         flex-direction: column;
         align-items: center;
     }
+    
+    .contact_part-1{
+        padding-left:20px;
+    }
 
 
 }
