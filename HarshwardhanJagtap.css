@@ -578,7 +578,7 @@ a:hover {
     position: relative;
     top: -18px;
     /* right: -200px; */
-    color: rgba(85, 85, 85, 0.157);
+    color: rgb(85 85 85 / 28%);
     font-size: 150px;
     margin: 0;
     padding: 0;
