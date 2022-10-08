@@ -393,6 +393,8 @@ li {
     /* top: 430px; */
     /* bottom: 0px; */
     right: 260px;
+    border-top-left-radius:  40%;
+    border-top-right-radius:  40%;
 }
 
 /* .road {
