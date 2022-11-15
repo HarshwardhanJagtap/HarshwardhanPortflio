@@ -1279,12 +1279,12 @@ footer .fa-linkedin-in {
 
 }
 
-@media screen and (max-width:1240px) {
+/* @media screen and (max-width:1240px) {
     .sub_hr {
         margin-top: 50px;
     }
 
-}
+} */
 
 @media screen and (max-width:1196px) {
     .sub_hr {
